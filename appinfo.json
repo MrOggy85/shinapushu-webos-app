@@ -1,0 +1,12 @@
+{
+  "id": "com.shinapushu",
+  "version": "0.0.1",
+  "vendor": "Otaku Naturelle",
+  "type": "web",
+  "main": "index.html",
+  "title": "Shinapushu",
+  "icon": "logo.png",
+  "largeIcon": "logolarge.png",
+  "splashBackground": "splash.png",
+  "iconColor": "#f0f0f0"
+}
